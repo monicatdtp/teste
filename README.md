@@ -1,3 +1,1 @@
-# teste
-projeto teste
-Este é um projeto de teste ...
+Código SQL para gerar esquema de papelaria, com inserção de dados.
