@@ -1,3 +1,13 @@
+
+
+
+--- bla bla bla
+
+
+
+
+
+
 -- editando o arquivo passo 2
 CREATE USER PAPELARIA IDENTIFIED BY PAPELARIA;
 GRANT CONNECT, RESOURCE TO PAPELARIA;
